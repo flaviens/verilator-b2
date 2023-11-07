@@ -5,6 +5,9 @@ We provide a Docker image for better reproducibility.
 You can either pull the image or make it.
 
 To pull the Docker image:
+```bash
+docker pull docker.io/ethcomsec/verilator-b2
+```
 
 To make the Docker image:
 ```bash
